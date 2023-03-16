@@ -1,0 +1,16 @@
+/*format tablet*/
+
+@media screen and (max-width:1000px){
+    
+} 
+
+/*format smartphone*/
+
+@media screen and(max-width:670px){
+    .header-list{
+        display:none;
+    }
+    .header h1{
+        text-align:center;
+    }
+}
